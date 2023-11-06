@@ -1,0 +1,7 @@
+# IDE Config
+.idea
+.vscode
+
+# Env files
+.env
+.env.local
